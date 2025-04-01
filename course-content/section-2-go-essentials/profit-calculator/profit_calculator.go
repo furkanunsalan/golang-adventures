@@ -2,6 +2,13 @@ package main
 
 import "fmt"
 
+// GOALS
+// 1) Validate user input
+// 		=> Show error message & exit if invalid input is provided
+//		- Not negative numbers
+//		- Not 0
+// 2) Store calculated results into file
+
 func main() {
 	// var revenue float64
 	// var expenses float64
